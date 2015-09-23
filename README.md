@@ -2,7 +2,9 @@
 An auction of PoE
 
 ## install openjdk
-  sudo yum install java-1.8.0-openjdk-devel
+```
+sudo yum install java-1.8.0-openjdk-devel
+```
 #### change default java version
   sudo alternatives --config java
   sudo alternatives --config javac
